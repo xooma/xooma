@@ -13,5 +13,5 @@ I'm currently working as an __**Angular** web developper__ ... 😭 but keeping 
 * React Native
 
 &nbsp;
-> [Say hi 📭](bec.maximilien@gmail.com)
+> [Say hi 📭](mailto:bec.maximilien@gmail.com)
 
