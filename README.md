@@ -1,16 +1,18 @@
-### Hi there 👋
+## Bonjour, bonjour ! 👋 ##
 
-<!--
-**xooma/xooma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Max.
+Junior **JavaScript** developper in ❤️ with **React** and **Nodejs**.
 
-Here are some ideas to get you started:
+I'm currently working as an __**Angular** web developper__ ... 😭 but keeping working on personnal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&nbsp;
+
+📝 TO-DO LEARN
+
+* Vue.js
+* MongoDB & GraphQL
+* React Native
+
+&nbsp;
+> [Say hi 📭](bec.maximilien@gmail.com)
+
