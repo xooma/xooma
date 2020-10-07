@@ -1,6 +1,6 @@
 ## Bonjour, bonjour ! 👋 ##
 
-I'm Max, junior **JavaScript** developper in ❤️ with **React** and **Nodejs**.
+I'm Max, junior **JavaScript** developer in ❤️ with **React** and **Nodejs**.
 
 I'm currently working as an __**Angular** Web Developer__ ... 😭 but keeping working on personnal projects.
 
