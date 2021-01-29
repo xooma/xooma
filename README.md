@@ -11,7 +11,8 @@ Say hi 📭  : bec.maximilien@gmail.com
 📝 __TO-DO / WIP__
 
 * A portfolio could be a good idea 🙄
-* Vue.js
 * MongoDB & GraphQL
+* Gatsby
+* Next.js
 * React Native
 
