@@ -1,18 +1,13 @@
 ## Bonjour, bonjour ! 👋 ##
 
-I'm Max, junior **JavaScript** developer in ❤️ with **React** and **Nodejs**.
+I'm Max, **JavaScript** developer working with **Angular**, **React**, **Nodejs** and **.Net**.
 
-I'm currently working as an __**Angular** Web Developer__ ... but keeping working on personnal projects.
+I'm currently working as __Fullstack Web Developer__ ...and keep working on personnal projects.
 
 Say hi 📭  : bec.maximilien@gmail.com
 
 &nbsp;
 
-📝 __TO-DO / WIP__
+📝 __WIP__
 
-* A portfolio could be a good idea 🙄
-* MongoDB & GraphQL
-* Gatsby
-* Next.js
-* React Native
-
+* Nestjs
