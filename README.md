@@ -1,5 +1,5 @@
-<h1 style="text-align: center; margin-bottom: -1.8rem">Maximilien BEC</h1>
-<h3 style="text-align: center">🇫🇷 Software Engineer</h3>
+<h1 align="center">Maximilien BEC</h1>
+<h3 align="center">🇫🇷 Software Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mbec/">
